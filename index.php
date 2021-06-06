@@ -10,8 +10,6 @@
         <div class="container text-center">
             <h1 class="display-3">Experience Blog</h1>
             <p>We are happy to save your post !!</p>
-            <button type="button" class="btn btn-outline-primary ">Check Number of Posts</button>
-            <p class="num-posts"></p>
         </div>    
     </div>
     <div class="container">
